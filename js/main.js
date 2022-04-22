@@ -1,4 +1,1 @@
-//===== Parallax
-
-var scene = document.getElementById('scene');
-var parallaxInstance = new Parallax(scene);
+var rellax = new Rellax('.rellax');
